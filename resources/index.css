@@ -2,10 +2,15 @@ html{
   font-family:verdana;
   color:white;
   background-color:black;
+  text-align:center;
+}
+p{
+  font-size:21px;
+  color:gray;
+  text-align:left;
 }
 h1{
   font-size:50px;
-  text-align:center;
 }
 h2{
   font-weight:300;
@@ -14,4 +19,8 @@ h2{
 .download{
   color:aquamarine;
   font-size:16px;
+  text-align:center;
+}
+.copywrite{
+  text-align:right;
 }
